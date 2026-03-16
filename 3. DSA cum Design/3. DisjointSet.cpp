@@ -2,6 +2,11 @@
 #include <iostream>
 using namespace std;
 
+//Disjoint set:-  a data structure used to maintain all the set which are non overlapping
+//MST:- to convert the graph into a graph where we should have n nodes and n-1 edges and all nodes are connected to each 
+    // other and sum of their edge weight should be minimum
+
+
 //TC = O(4 alpha) = approx O(1)
 class DisjointSet {
 public:
